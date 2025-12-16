@@ -10,4 +10,14 @@ print("Hello\nWorld")
 print("Hello" + " " + "World")
 
 # Using Python Input function to take user input
-input("What is your name?")
+# input("What is your name?")
+print("Hello " + input("What is your name?") + " !")
+
+# Using variables to store user input
+name = input("What is your name? ")
+print("Welcome to Python Programmming, " + name + ".")
+
+# Finding the length of a String
+
+length = len(name)
+print("Hello your name is of " + str(length) + " letters.")
