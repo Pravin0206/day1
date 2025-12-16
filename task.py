@@ -8,3 +8,6 @@ print("Hello\nWorld")
 
 # String concatenation
 print("Hello" + " " + "World")
+
+# Using Python Input function to take user input
+input("What is your name?")
