@@ -5,3 +5,6 @@ print('print("Hello World")')
 
 # Using /n to start a new line
 print("Hello\nWorld")
+
+# String concatenation
+print("Hello" + " " + "World")
